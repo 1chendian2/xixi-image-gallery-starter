@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="bg-slate-800 dark:bg-slate-900 mt-20">
       <Container className="p-6">
         <p className="text-center text-slate-400">
-          Built by <a className="underline font-medium text-inherit" href="https://twitter.com/colbyfayock">Colby Fayock</a>
+          Built by <a className="underline font-medium text-inherit" href="chenhongyang86.fun">陈淀</a>
         </p>
       </Container>
     </footer>
